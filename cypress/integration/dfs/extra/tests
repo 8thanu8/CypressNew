@@ -1,0 +1,41 @@
+tests:
+1.) check url
+2.) check what was typed in the search field
+3.) check new url after enter has been pressed for search field
+4.) check if first dfs profile had word furniture within it
+5.) on the people tab, check the checkbox is ticked after peforming a tick
+6.) check the checkbox is unticked after peforming an uncheck
+7.) check the multiple checkbox works
+8.) check company number is visible
+9.) check the lenght of the company number is standard set to 8
+10.) check if heading is visible
+11.) check if heading is font- family and serif
+12.) check if the people tabs work
+13.) check if the more tabs work
+14.) check if the filing history tabs work
+15.) check if yiou can register with righ email
+16.) check if you can register with 2 differemt email
+17.) check symbols work within search
++ 29
+18.) sign in wrong details
+19.) sign in correct details
+20.) check tabs after loging in
++4
+see if you can follow the company
+see if there is confirmation 
+see of you can unfollow the company
+see if there is confirmation
+15.) view your account 
+ your followed companies and see if its listed there
+16.)  change password with wrong details
+change password with correct details
+unfollow all companies from your account
+and check if you are following any companies 
+(should come up as no companies following)
+check if sign out button works by clicking it and checking if account has been signed out
+search 'dfs' click on first link and check if the company number is an int.
+check all the checkboxes work under 'filin history'
++7
+check more tab and click view company information, should appear 'status in progress'.
+
+
