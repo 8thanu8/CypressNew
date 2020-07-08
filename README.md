@@ -3,14 +3,14 @@ Cypress Automation Testing ES Updated
 
 # A. Starting Up Entity Search:
 
-1. Open termainal
+1. Open new terminal
 2. cd Entity Search
 3. make upgrade
 4 Wait x amount of time, for access to Entity Search to be setup.
 
 # B. Opening Cypress:
 
-1. Open terminal
+1. Open new terminal
 2. type node_modules/.bin/cypress open
 3. hit enter
 4. this should open cypress, and if you double click 'new.js' on the bottom it will open another window and run the tests.
