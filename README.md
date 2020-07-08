@@ -1,4 +1,4 @@
-# CypressNew
+# Entity Search
 Cypress Automation Testing ES Updated
 
 Opening Cypress
