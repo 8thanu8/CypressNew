@@ -1,13 +1,12 @@
 # Entity Search
 Cypress Automation Testing ES Updated
 
-# A. Set Guide:
+# A. Starting Up Entity Search:
 
-Start Up Entity Search via Termainal:
 1. Open termainal
 2. cd Entity Search
 3. make upgrade
-4 Wait x amount of time, for access to Entity Search to be granted and setup.
+4 Wait x amount of time, for access to Entity Search to be setup.
 
 # B. Opening Cypress:
 
